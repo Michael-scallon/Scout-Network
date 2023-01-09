@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(37, 37, 37);
+}
+
+li {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.logo{
+padding: 50px;
+margin: 0;
+}
+.stock-container{
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}

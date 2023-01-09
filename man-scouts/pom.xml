@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>thats-so-maven</groupId>
+    <artifactId>man-scouts</artifactId>
+    <packaging>pom</packaging>
+    <version>0.0.1</version>
+    <modules>
+        <module>broker</module>
+        <module>core</module>
+        <module>euro-scout</module>
+        <module>africa-scout</module>
+        <module>americas-scout</module>
+        <module>asia_oceania-scout</module>
+        <module>field-scout</module>
+        <module>eureka-server</module>
+    </modules>
+
+</project>
